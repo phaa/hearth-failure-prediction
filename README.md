@@ -83,6 +83,7 @@ Os modelos foram avaliados com métricas robustas, e gráficos comparativos entr
 1. Clone este repositório:  
 ```bash
 git clone https://github.com/phaa/hearth-failure-prediction.git
+cd hearth-failure-prediction
 ```
 
 2. Crie um ambiente Anaconda:
